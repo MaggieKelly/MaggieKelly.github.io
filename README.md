@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# About me
+My name is Maggie Kelly. I am a seinor student-athlete at Lehigh University studying psychology with a minor in mass communication. Currently I am taking part in COMM 165 Data Storytelling summer session where I hope to learn more about the importance of data and how it can be communicated and interpreted. 
 ## Header 2
 ### Header 3
 
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url)linkedin.com/in/maggie-kelly-603b751a8 and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
