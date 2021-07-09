@@ -24,7 +24,7 @@ My name is Maggie Kelly. I am a seinor student-athlete at Lehigh University stud
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url)linkedin.com/in/maggie-kelly-603b751a8 and ![Image](src)
+[linkedin.com/in/maggie-kelly-603b751a8](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
