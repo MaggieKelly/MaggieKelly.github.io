@@ -24,7 +24,7 @@ Below is a bar chart created using Datawrapper also displaying Lehigh Univeristy
 ### Example 3
 Below is my attempt to create an interactive map. It is displaying data that was collected from Twitter. The data displays tweets that contain the hastags hertz and eagles. 
 
-![Interactive Map](https://arcg.is/5Gvyb)
+[Interactive Map](https://arcg.is/5Gvyb)
 
 ### Example 4
 
